@@ -3,3 +3,4 @@ server/.env
 server/dist/
 server/build/
 server/ddlogs/
+node_modules
